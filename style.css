@@ -1,0 +1,105 @@
+
+body{
+      background-color: #161717;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+}
+h1{
+      color: white;
+}
+.header{
+      margin-left: 80px;
+}
+.icon{
+      float: right;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin: 20px;
+     
+}
+.item{
+      height:180px;
+      background-image: url(./images/bg-desktop-dark.jpg);
+     height: 300px;
+      
+      margin: 0 0 10px 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 7px;
+
+}
+.create{
+      height: 100px;
+      width: 480px;
+}
+
+.list{
+      background-color: rgb(38, 38, 43);
+      color: grey;
+      height: 400px;
+      margin-top: 35px;
+      border-radius: 7px;
+   
+    
+      
+
+}
+
+
+
+
+
+
+.cret{
+      background-color: rgb(80, 77, 77);
+      color: grey;
+      height: 30px;
+      width: 360px;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      font-size: 16px;
+      border-radius: 7px;
+}
+.lit{
+     margin-top: 20px;
+}
+span{
+      padding: 20px;
+      text-align: center;
+      align-items: center;
+      justify-content: center;
+}
+hr{
+      margin: solid 1px rgb(102, 97, 97);
+}
+.list ul li{
+      list-style: none;
+}
+.others{
+      display: flex;
+      text-align: center;
+      justify-content: center;
+
+}
+.others p{
+      padding: 10px;
+}
+.others p:hover{
+      cursor: pointer;
+      color: blue;
+}
+
+p{
+      color: rgb(141, 131, 131);
+      text-align: center;
+      margin-top: 10px;
+}
+.all{
+      color: blue;
+}
+
+
